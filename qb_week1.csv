@@ -1,0 +1,37 @@
+team,id,fname,lname,team,passing_att,passing_cmp,passing_yd,passing_td,passing_int,passing_rate,rushing_att,rushing_yd,rushing_avg,rushing_td,rushing_fl,ftps,week,position,team_id
+"New Orleans Saints",3,Drew,Brees,Saints,45,37,439,3,0,129.5,0,0,0,0,0,37,1,Quarterback,22
+"Kansas City Chiefs",4,Patrick,Mahomes,Chiefs,27,15,256,4,0,127.5,5,21,4.2,0,0,36,1,Quarterback,16
+"Los Angeles Chargers",5,Philip,Rivers,Chargers,51,34,424,3,1,103.7,0,0,0,0,0,34,1,Quarterback,17
+"Baltimore Ravens",6,Joe,Flacco,Ravens,34,25,236,3,0,121.7,2,3,1.5,0,0,27,1,Quarterback,3
+"Baltimore Ravens",7,Lamar,Jackson,Ravens,4,1,24,0,0,52.1,7,39,5.57,0,0,3,1,Quarterback,3
+"Green Bay Packers",8,Aaron,Rodgers,Packers,30,20,286,3,0,130.7,1,15,15,0,0,30,1,Quarterback,12
+"Green Bay Packers",9,DeShone,Kizer,Packers,7,4,55,0,1,42.9,0,0,0,0,1,-2,1,Quarterback,12
+"New England Patriots",10,Tom,Brady,Patriots,39,26,277,3,1,102.2,1,2,2,0,0,27,1,Quarterback,21
+"Seattle Seahawks",11,Russell,Wilson,Seahawks,33,19,298,3,2,92.7,2,5,2.5,0,0,25,1,Quarterback,28
+"Denver Broncos",12,Case,Keenum,Broncos,39,25,329,3,3,84.2,0,0,0,0,0,25,1,Quarterback,10
+"Cleveland Browns",13,Tyrod,Taylor,Browns,40,15,197,1,1,51.8,8,77,9.62,1,0,24,1,Quarterback,8
+"Washington Redskins",14,Alex,Smith,Redskins,30,21,255,2,0,118.1,8,14,1.75,0,0,23,1,Quarterback,32
+"Minnesota Vikings",15,Kirk,Cousins,Vikings,36,20,244,2,0,95.1,4,26,6.5,0,0,23,1,Quarterback,20
+"Indianapolis Colts",16,Andrew,Luck,Colts,53,39,319,2,1,93.2,1,7,7,0,0,22,1,Quarterback,14
+"Los Angeles Rams",17,Jared,Goff,Rams,33,18,233,2,0,97.2,1,-1,-1,0,0,21,1,Quarterback,18
+"Cincinnati Bengals",18,Andy,Dalton,Bengals,28,21,243,2,1,109.7,2,8,4,0,0,19,1,Quarterback,7
+"Miami Dolphins",19,Ryan,Tannehill,Dolphins,28,20,230,2,2,89.9,4,4,1,0,0,17,1,Quarterback,19
+"New York Jets",20,Sam,Darnold,Jets,21,16,198,2,1,116.8,6,-1,-0.17,0,0,17,1,Quarterback,24
+"Carolina Panthers",21,Cam,Newton,Panthers,26,17,161,0,0,82.4,13,58,4.46,1,0,17,1,Quarterback,5
+"Jacksonville Jaguars",22,Blake,Bortles,Jaguars,33,18,176,1,1,67.2,4,42,10.5,0,0,15,1,Quarterback,15
+"Houston Texans",23,Deshaun,Watson,Texans,34,17,176,1,1,62.9,8,40,5,0,1,13,1,Quarterback,13
+"Chicago Bears",24,Mitchell,Trubisky,Bears,35,23,171,0,0,77.2,7,32,4.57,1,1,13,1,Quarterback,6
+"Pittsburgh Steelers",25,Ben,Roethlisberger,Steelers,41,23,335,1,3,60.5,3,16,5.33,0,2,10,1,Quarterback,27
+"San Francisco 49ers",26,Jimmy,Garoppolo,49ers,33,15,261,1,3,45.1,2,6,3,0,0,10,1,Quarterback,29
+"Detroit Lions",27,Matthew,Stafford,Lions,46,27,286,1,4,47.9,1,6,6,0,0,9,1,Quarterback,11
+"Detroit Lions",28,Matt,Cassel,Lions,6,2,14,0,1,2.8,1,-1,-1,0,0,-2,1,Quarterback,11
+"Atlanta Falcons",29,Matt,Ryan,Falcons,43,21,251,0,1,57.4,2,8,4,0,0,8,1,Quarterback,2
+"Dallas Cowboys",30,Dak,Prescott,Cowboys,29,19,170,0,0,81.1,5,19,3.8,0,1,7,1,Quarterback,9
+"Oakland Raiders",31,Derek,Carr,Raiders,40,29,303,0,3,62.8,2,1,0.5,0,0,6,1,Quarterback,25
+"New York Giants",32,Eli,Manning,Giants,37,23,224,0,1,67.8,1,2,2,0,0,6,1,Quarterback,23
+"Tennessee Titans",33,Blaine,Gabbert,Titans,22,11,117,0,1,47,0,0,0,0,0,2,1,Quarterback,31
+"Tennessee Titans",34,Marcus,Mariota,Titans,16,9,103,0,2,36.2,3,15,5,0,0,1,1,Quarterback,31
+"Philadelphia Eagles",35,Nick,Foles,Eagles,34,19,117,0,1,50.7,1,-1,-1,0,0,3,1,Quarterback,26
+"Arizona Cardinals",36,Sam,Bradford,Cardinals,34,20,153,0,1,57.6,2,7,3.5,0,1,2,1,Quarterback,1
+"Buffalo Bills",37,Josh,Allen,Bills,15,6,74,0,0,56,4,26,6.5,0,0,4,1,Quarterback,4
+"Buffalo Bills",38,Nathan,Peterman,Bills,18,5,24,0,2,0,1,1,1,0,0,-4,1,Quarterback,4
