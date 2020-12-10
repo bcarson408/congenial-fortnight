@@ -52,6 +52,7 @@ def main():
     # get_dfs(fo_te_ratings_2019_url)
     # get_dfs(fo_te_ratings_2018_url)
     # get_dfs(fo_te_ratings_2017_url)
+    
 def fantasypros_stats():
     base_url = 'https://www.fantasypros.com/nfl/stats/'
     positions = ['qb','rb','wr','te','dst','dl','lb','db']
