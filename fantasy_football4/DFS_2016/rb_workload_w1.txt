@@ -1,0 +1,1111 @@
+Player
+21698
+18327
+18299
+18230
+18166
+12959
+Thomas Rawls
+Tevin Coleman
+Robert Turbin
+Reggie Bush
+18522
+Chris Johnson
+18521
+11766
+Tim Hightower
+Terron Ward
+Mike Davis
+Kenjon Barner
+Jay Ajayi
+Fitzgerald Toussaint
+18534
+18533
+18512
+18342
+Rex Burkhead
+Isaiah Crowell
+Fozzy Whittaker
+Christine Michael
+Carlos Hyde
+Alfred Morris
+Alfred Blue
+18531
+18530
+18518
+18206
+16538
+13625
+Todd Gurley
+Jamaal Charles
+Eddie Lacy
+Denard Robinson
+13882
+12631
+T.J. Yeldon
+Shaun Draughn
+Ryan Mathews
+LeSean McCoy
+11768
+11672
+Latavius Murray
+Chris Ivory
+Ameer Abdullah
+18516
+18370
+18140
+16647
+14047
+13568
+11732
+Theo Riddick
+Shane Vereen
+Rashad Jennings
+Melvin Gordon
+Matt Jones
+Matt Forte
+Matt Asiata
+Mark Ingram
+Lance Dunbar
+Lamar Miller
+Justin Forsett
+Jonathan Stewart
+Jerick McKinnon
+Jeremy Langford
+Jeremy Hill
+Javorius Allen
+James White
+James Starks
+Giovani Bernard
+Frank Gore
+Duke Johnson
+Doug Martin
+Devonta Freeman
+DeMarco Murray
+DeAngelo Williams
+David Johnson
+Darren Sproles
+Danny Woodhead
+Damien Williams
+Chris Thompson
+Charles Sims
+Charcandrick West
+C.J. Spiller
+C.J. Anderson
+Brandon Bolden
+Bilal Powell
+Benny Cunningham
+Arian Foster
+Antonio Andrews
+Andre Ellington
+Adrian Peterson
+Salary
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+$7400
+$5200
+$4900
+N/A
+N/A
+$6000
+N/A
+N/A
+$5200
+$4500
+$4500
+$4600
+$6100
+$4600
+N/A
+N/A
+N/A
+N/A
+$4500
+$5700
+$4800
+$4800
+$6200
+$5400
+$5300
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+$8900
+$8000
+$7100
+$5200
+N/A
+N/A
+$6100
+$4800
+$6100
+$6900
+N/A
+N/A
+$6600
+$6100
+$6300
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+$5100
+$5300
+$6000
+$5700
+$6000
+$6500
+$4800
+$7300
+$4600
+$7600
+$6900
+$6400
+$5200
+$6200
+$6500
+$5400
+$4900
+$5600
+$5600
+$6200
+$5600
+$7200
+$8100
+$6500
+$7100
+$8800
+$5600
+$5800
+$4600
+$4900
+$4700
+$5100
+$4900
+$6700
+$4900
+$5500
+$4900
+$6500
+$4800
+$4800
+$8200
+Pos
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+RB
+RB
+RB
+RB
+N/A
+RB
+N/A
+N/A
+RB
+RB
+RB
+RB
+RB
+RB
+N/A
+N/A
+N/A
+N/A
+RB
+RB
+RB
+RB
+RB
+RB
+RB
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+RB
+RB
+RB
+RB
+N/A
+N/A
+RB
+RB
+RB
+RB
+N/A
+N/A
+RB
+RB
+RB
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+RB
+RB
+RB
+RB
+RB
+RB
+RB
+RB
+RB
+RB
+RB
+RB
+RB
+RB
+RB
+RB
+RB
+RB
+RB
+RB
+RB
+RB
+RB
+RB
+RB
+RB
+RB
+RB
+RB
+RB
+RB
+RB
+RB
+RB
+RB
+RB
+RB
+RB
+RB
+RB
+RB
+Opp
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+vs. MIA
+vs. TBB
+vs. DET
+@ BAL
+N/A
+vs. NEP
+N/A
+N/A
+vs. OAK
+vs. TBB
+vs. LAR
+vs. CLE
+@ SEA
+@ WAS
+N/A
+N/A
+N/A
+N/A
+@ NYJ
+@ PHI
+@ DEN
+vs. MIA
+vs. LAR
+vs. NYG
+vs. CHI
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+@ SFO
+vs. SDC
+@ JAC
+vs. GBP
+N/A
+N/A
+vs. GBP
+vs. LAR
+vs. CLE
+@ BAL
+N/A
+N/A
+@ NOS
+vs. GBP
+@ IND
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+@ IND
+@ DAL
+@ DAL
+@ KCC
+vs. PIT
+vs. CIN
+@ TEN
+vs. OAK
+vs. NYG
+vs. CHI
+vs. BUF
+@ DEN
+@ TEN
+@ HOU
+@ NYJ
+vs. BUF
+@ ARI
+@ JAC
+@ NYJ
+vs. DET
+@ PHI
+@ ATL
+vs. TBB
+vs. MIN
+@ WAS
+vs. NEP
+vs. CLE
+@ KCC
+@ SEA
+vs. PIT
+@ ATL
+vs. SDC
+vs. OAK
+vs. CAR
+@ ARI
+vs. CIN
+@ SFO
+@ SEA
+vs. MIN
+vs. NEP
+@ TEN
+Team
+HOU
+OAK
+DEN
+SFO
+BUF
+OAK
+SEA
+ATL
+IND
+BUF
+MIN
+ARI
+NOS
+NEP
+NOS
+ATL
+SFO
+PHI
+MIA
+PIT
+SFO
+NOS
+CIN
+SDC
+CIN
+CLE
+CAR
+SEA
+SFO
+DAL
+HOU
+CAR
+ATL
+NYJ
+TEN
+PIT
+NOS
+LAR
+KCC
+GBP
+JAC
+HOU
+TEN
+JAC
+SFO
+PHI
+BUF
+NEP
+DAL
+OAK
+JAC
+DET
+BAL
+LAR
+JAC
+NYJ
+SFO
+DEN
+OAK
+DET
+NYG
+NYG
+SDC
+WAS
+NYJ
+MIN
+NOS
+DAL
+HOU
+BAL
+CAR
+MIN
+CHI
+CIN
+BAL
+NEP
+GBP
+CIN
+IND
+CLE
+TBB
+ATL
+TEN
+PIT
+ARI
+PHI
+SDC
+MIA
+WAS
+TBB
+KCC
+NOS
+DEN
+NEP
+NYJ
+LAR
+MIA
+TEN
+ARI
+MIN
+Tchs
+24
+33
+24
+24
+34
+22
+156
+89
+57
+12
+14
+202
+21
+67
+108
+38
+42
+37
+56
+54
+16
+9
+8
+44
+16
+204
+39
+79
+126
+223
+215
+91
+14
+6
+61
+137
+28
+250
+92
+233
+88
+88
+86
+218
+105
+128
+235
+85
+279
+307
+277
+168
+43
+93
+52
+73
+57
+259
+40
+123
+120
+224
+217
+163
+262
+49
+216
+26
+241
+182
+299
+78
+170
+253
+183
+75
+216
+211
+294
+165
+321
+338
+238
+240
+206
+138
+178
+37
+79
+158
+208
+70
+213
+90
+117
+63
+85
+164
+64
+382
+TmTchs
+852
+713
+785
+596
+643
+713
+642
+808
+600
+643
+773
+887
+751
+991
+751
+808
+596
+685
+470
+797
+596
+751
+770
+831
+770
+559
+893
+642
+596
+802
+852
+893
+808
+774
+999
+797
+751
+624
+856
+832
+974
+852
+999
+974
+596
+685
+643
+991
+802
+713
+974
+758
+887
+624
+974
+774
+596
+785
+713
+758
+725
+725
+831
+629
+774
+773
+751
+802
+852
+887
+893
+773
+521
+770
+887
+991
+832
+770
+600
+559
+758
+808
+999
+797
+887
+685
+831
+470
+629
+758
+856
+751
+785
+991
+774
+624
+470
+999
+887
+773
+POW Tchs
+2.82%
+4.63%
+3.06%
+4.03%
+5.29%
+3.09%
+24.30%
+11.01%
+9.50%
+1.87%
+1.81%
+22.77%
+2.80%
+6.76%
+14.38%
+4.70%
+7.05%
+5.40%
+11.91%
+6.78%
+2.68%
+1.20%
+1.04%
+5.29%
+2.08%
+36.49%
+4.37%
+12.31%
+21.14%
+27.81%
+25.23%
+10.19%
+1.73%
+0.78%
+6.11%
+17.19%
+3.73%
+40.06%
+10.75%
+28.00%
+9.03%
+10.33%
+8.61%
+22.38%
+17.62%
+18.69%
+36.55%
+8.58%
+34.79%
+43.06%
+28.44%
+22.16%
+4.85%
+14.90%
+5.34%
+9.43%
+9.56%
+32.99%
+5.61%
+16.23%
+16.55%
+30.90%
+26.11%
+25.91%
+33.85%
+6.34%
+28.76%
+3.24%
+28.29%
+20.52%
+33.48%
+10.09%
+32.63%
+32.86%
+20.63%
+7.57%
+25.96%
+27.40%
+49.00%
+29.52%
+42.35%
+41.83%
+23.82%
+30.11%
+23.22%
+20.15%
+21.42%
+7.87%
+12.56%
+20.84%
+24.30%
+9.32%
+27.13%
+9.08%
+15.12%
+10.10%
+18.09%
+16.42%
+7.22%
+49.42%
+RzAtt
+3
+7
+1
+3
+1
+1
+16
+16
+6
+2
+4
+33
+8
+7
+20
+12
+10
+2
+11
+5
+5
+4
+2
+1
+1
+30
+6
+4
+18
+29
+23
+25
+3
+2
+11
+18
+3
+30
+12
+24
+20
+14
+4
+26
+12
+17
+23
+15
+30
+33
+43
+16
+9
+4
+9
+12
+10
+37
+7
+18
+19
+21
+13
+25
+40
+7
+36
+1
+23
+21
+56
+12
+24
+42
+31
+14
+27
+33
+39
+19
+46
+61
+31
+51
+37
+15
+34
+5
+12
+24
+34
+6
+25
+9
+14
+7
+13
+18
+6
+52
+TmRzOpp
+112
+98
+115
+90
+78
+98
+76
+141
+91
+78
+108
+161
+128
+187
+128
+141
+90
+97
+92
+150
+90
+128
+132
+120
+132
+97
+183
+76
+90
+126
+112
+183
+141
+141
+129
+150
+128
+63
+135
+135
+177
+112
+129
+177
+90
+97
+78
+187
+126
+98
+177
+117
+140
+63
+177
+141
+90
+115
+98
+117
+113
+113
+120
+124
+141
+108
+128
+126
+112
+140
+183
+108
+89
+132
+140
+187
+135
+132
+91
+97
+137
+141
+129
+150
+161
+97
+120
+92
+124
+137
+135
+128
+115
+187
+141
+63
+92
+129
+161
+108
+POW RZ Opp
+2.68%
+7.14%
+0.87%
+3.33%
+1.28%
+1.02%
+21.05%
+11.35%
+6.59%
+2.56%
+3.70%
+20.50%
+6.25%
+3.74%
+15.63%
+8.51%
+11.11%
+2.06%
+11.96%
+3.33%
+5.56%
+3.13%
+1.52%
+0.83%
+0.76%
+30.93%
+3.28%
+5.26%
+20.00%
+23.02%
+20.54%
+13.66%
+2.13%
+1.42%
+8.53%
+12.00%
+2.34%
+47.62%
+8.89%
+17.78%
+11.30%
+12.50%
+3.10%
+14.69%
+13.33%
+17.53%
+29.49%
+8.02%
+23.81%
+33.67%
+24.29%
+13.68%
+6.43%
+6.35%
+5.08%
+8.51%
+11.11%
+32.17%
+7.14%
+15.38%
+16.81%
+18.58%
+10.83%
+20.16%
+28.37%
+6.48%
+28.13%
+0.79%
+20.54%
+15.00%
+30.60%
+11.11%
+26.97%
+31.82%
+22.14%
+7.49%
+20.00%
+25.00%
+42.86%
+19.59%
+33.58%
+43.26%
+24.03%
+34.00%
+22.98%
+15.46%
+28.33%
+5.43%
+9.68%
+17.52%
+25.19%
+4.69%
+21.74%
+4.81%
+9.93%
+11.11%
+14.13%
+13.95%
+3.73%
+48.15%
